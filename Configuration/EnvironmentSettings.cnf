@@ -1,0 +1,7 @@
+[BASE_URL]
+URL=https://api.predic8.de:443
+[RESOURCES]
+CATEGORIES=/shop/categories/
+CREATE_CUSTOMER=/shop/customers/
+CREATE_ORDER=/shop/customers/replaceme/orders/
+DELETE_CUSTOMER=/shop/orders/replaceme

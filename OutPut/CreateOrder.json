@@ -1,0 +1,13 @@
+{
+    "createdAt": "2020-07-25T02:19:59.967Z",
+    "updatedAt": "2020-07-25T02:19:59.967Z",
+    "state": "created",
+    "customer_url": "/shop/customers/457",
+    "actions": {
+        "purchase": {
+            "url": "/shop/orders/7968/actions/purchase",
+            "method": "POST"
+        }
+    },
+    "items_url": "/shop/orders/7968/items/"
+}
